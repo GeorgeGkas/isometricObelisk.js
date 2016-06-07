@@ -1,5 +1,5 @@
-<img width="300" height="300" src="https://i.imgur.com/szGmEA8.png"></img>
 #IsometricObelisk.js
+<img width="200" height="200" src="https://i.imgur.com/szGmEA8.png"></img> <br />
 ![](https://img.shields.io/badge/version-1.0%20stable-2980b9.svg?style=flat-square) ![](https://img.shields.io/badge/ECMAScript-2015%20/%20v6-1abc9c.svg?style=flat-square) ![](https://img.shields.io/badge/license-MIT-3498db.svg?style=flat-square) 
 
 ####A JavaScript module to create isometric shapes
