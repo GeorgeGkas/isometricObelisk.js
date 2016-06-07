@@ -51,4 +51,8 @@ _isometric.cube().position().color().render();
 
 I did my best to create a detailed documentation on how to use this module. Please go to [Wiki Page](https://github.com/GeorgeGks/isometricObelisk.js/wiki) of this project to find how to move in this module, what each parameters mean, and to view illustated tutorials with basic and advance usage.
 
+For any other support you need, bug reports, and feature requests, open a [new issue](https://github.com/GeorgeGks/isometricObelisk.js/issues/new). 
 
+##License
+
+Copyright (c) 2016 George G. Gkasdrogkas Licensed under the MIT license.
