@@ -24,9 +24,6 @@ After you read it, this is how simple is to create a basic cube isometric shape:
 ```javascript
 _isometric.cube().color().position().render();
 ```
-
-And tada!:
-
 ![](http://s32.postimg.org/qve8lqh9x/Selection_001.png)
 
 For any other support you need, bug reports, and feature requests, open a [new issue](https://github.com/GeorgeGks/isometricObelisk.js/issues/new). 
