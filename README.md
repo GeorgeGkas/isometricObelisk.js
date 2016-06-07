@@ -1,7 +1,9 @@
 #IsometricObelisk.js
 ###A JavaScript module to create isometric shapes
 
-> The isometricObelisk library allows you to create basic isometric (2.5D) shapes such as cube, pyramid, bricks, and more for you > html canvas project.
+> The isometricObelisk library allows you to create basic isometric
+> (2.5D) shapes such as cube, pyramid, bricks, and more for you html
+> canvas project.
 
 ####Acknowledgements
 
