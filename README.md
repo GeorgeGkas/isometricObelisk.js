@@ -47,7 +47,7 @@ var _isometric = new isometricObelisk({
 _isometric.cube().position().color().render();
 ```
 
-##Documentation
+##Documentation Support
 
 I did my best to create a detailed documentation on how to use this module. Please go to [Wiki Page](https://github.com/GeorgeGks/isometricObelisk.js/wiki) of this project to find how to move in this module, what each parameters mean, and to view illustated tutorials with basic and advance usage.
 
