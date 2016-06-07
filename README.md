@@ -1,0 +1,1 @@
+# isometricObelisk.js
