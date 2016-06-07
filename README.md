@@ -19,7 +19,7 @@ This module is based on [Obelisk.js](https://github.com/nosir/obelisk.js),  writ
 
 I did my best to create a detailed documentation on how to use this module. Please go to [Wiki Page](https://github.com/GeorgeGks/isometricObelisk.js/wiki) of this project to find how to move in this module, what each parameters mean, and to view illustated tutorials with basic and advance usage.
 
-After you read it, this is how simple is to create a basic cube isometric shape:
+After you read it, this is how simple is to create a basic cube isometric shape using the default values:
 
 ```javascript
 _isometric.cube().color().position().render();
