@@ -11,7 +11,7 @@
  (2.5D) shapes such as cube, pyramid, bricks, and more for you html
  canvas project.
  
-####Cool projects created with `isometricObelisk.js` module
+**Cool projects created with `isometricObelisk.js` module**
 
 You can see a list of all community and personal projects created with this module on [Appendix C](https://github.com/GeorgeGks/isometricObelisk.js/wiki/Appendix-C) chapter of our Wiki.
 
