@@ -1,11 +1,11 @@
 <img width="300" height="300" src="https://i.imgur.com/szGmEA8.png"></img>
-#IsometricObelisk.js
+# IsometricObelisk.js
 ![](https://img.shields.io/badge/version-1.0%20stable-2980b9.svg?style=flat-square) ![](https://img.shields.io/badge/ECMAScript-2015%20/%20v6-1abc9c.svg?style=flat-square) ![](https://img.shields.io/badge/license-MIT-3498db.svg?style=flat-square) 
 
-####A JavaScript module to create isometric shapes
+#### A JavaScript module to create isometric shapes
 ----------
 
-##What this project is
+## What this project is
 
  The **isometricObelisk** module allows you to create basic isometric
  (2.5D) shapes such as cube, pyramid, bricks, and more for you html
@@ -15,7 +15,7 @@
 
 You can see a list of all community and personal projects created with this module on [Appendix C](https://github.com/GeorgeGks/isometricObelisk.js/wiki/Appendix-C) chapter of our Wiki.
 
-##Acknowledgements
+## Acknowledgements
 
 This module is based on [Obelisk.js](https://github.com/nosir/obelisk.js),  written by Max Huag ([@nosir](https://github.com/nosir/)) and [contributed by github community](https://github.com/nosir/obelisk.js/graphs/contributors). This library was further improved by me ([@GeorgeGks](https://github.com/GeorgeGks)) with the development of this add-on module. I also want to thank all the users and my teachers who reviewed that Wiki Page and Logo Image.
 
@@ -32,6 +32,6 @@ _isometric.cube().color().position().render();
 
 For any other support you need, bug reports, and feature requests, open a [new issue](https://github.com/GeorgeGks/isometricObelisk.js/issues/new). 
 
-##License
+## License
 
 Copyright (c) 2016 George G. Gkasdrogkas Licensed under the MIT license.
